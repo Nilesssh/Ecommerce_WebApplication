@@ -8,6 +8,13 @@
   box-sizing: border-box;
 }
 
+.navbarColor{
+  background-color: rgb(40,116,240);
+}
+.searchIcon{
+  color: rgb(45,120,241);
+}
+
 ::-webkit-scrollbar {
   display: none;
 }
